@@ -1,0 +1,10 @@
+#container {
+width: 960px;
+margin: 0 auto;
+border: 5px solid red;
+}
+#content {
+border: 5px solid orange;
+margin: 30px;
+margin: 30px;
+}
